@@ -28,10 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Mayurimane936/LeetCode-/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/Mayurimane936/LeetCode-/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Mayurimane936/LeetCode-/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/Mayurimane936/LeetCode-/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
