@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Mayurimane936/LeetCode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0078-subsets](https://github.com/Mayurimane936/LeetCode-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Mayurimane936/LeetCode-/tree/master/0090-subsets-ii) |
 | [0217-contains-duplicate](https://github.com/Mayurimane936/LeetCode-/tree/master/0217-contains-duplicate) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Mayurimane936/LeetCode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Mayurimane936/LeetCode-/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/Mayurimane936/LeetCode-/tree/master/0392-is-subsequence) |
 ## String
