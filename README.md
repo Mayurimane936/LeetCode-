@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mayurimane936/LeetCode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mayurimane936/LeetCode-/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Mayurimane936/LeetCode-/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Mayurimane936/LeetCode-/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Mayurimane936/LeetCode-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Mayurimane936/LeetCode-/tree/master/0090-subsets-ii) |
 | [0217-contains-duplicate](https://github.com/Mayurimane936/LeetCode-/tree/master/0217-contains-duplicate) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Mayurimane936/LeetCode-/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Mayurimane936/LeetCode-/tree/master/0066-plus-one) |
 | [1013-fibonacci-number](https://github.com/Mayurimane936/LeetCode-/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
