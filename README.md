@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Mayurimane936/LeetCode-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Mayurimane936/LeetCode-/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/Mayurimane936/LeetCode-/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,10 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Mayurimane936/LeetCode-/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Mayurimane936/LeetCode-/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/Mayurimane936/LeetCode-/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Mayurimane936/LeetCode-/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Mayurimane936/LeetCode-/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Mayurimane936/LeetCode-/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
