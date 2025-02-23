@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Mayurimane936/LeetCode-/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Mayurimane936/LeetCode-/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Mayurimane936/LeetCode-/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Mayurimane936/LeetCode-/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/Mayurimane936/LeetCode-/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/Mayurimane936/LeetCode-/tree/master/1013-fibonacci-number) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Mayurimane936/LeetCode-/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Mayurimane936/LeetCode-/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Mayurimane936/LeetCode-/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/Mayurimane936/LeetCode-/tree/master/0792-binary-search) |
 ## Tree
