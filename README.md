@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Mayurimane936/LeetCode-/tree/master/0219-contains-duplicate-ii) |
 | [0485-max-consecutive-ones](https://github.com/Mayurimane936/LeetCode-/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/Mayurimane936/LeetCode-/tree/master/0792-binary-search) |
+| [1603-running-sum-of-1d-array](https://github.com/Mayurimane936/LeetCode-/tree/master/1603-running-sum-of-1d-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Mayurimane936/LeetCode-/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2058-concatenation-of-array](https://github.com/Mayurimane936/LeetCode-/tree/master/2058-concatenation-of-array) |
 ## Backtracking
@@ -134,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/Mayurimane936/LeetCode-/tree/master/2058-concatenation-of-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/Mayurimane936/LeetCode-/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
