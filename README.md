@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Mayurimane936/LeetCode-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Mayurimane936/LeetCode-/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Mayurimane936/LeetCode-/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Mayurimane936/LeetCode-/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Mayurimane936/LeetCode-/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/Mayurimane936/LeetCode-/tree/master/0782-jewels-and-stones) |
 | [1256-rank-transform-of-an-array](https://github.com/Mayurimane936/LeetCode-/tree/master/1256-rank-transform-of-an-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Mayurimane936/LeetCode-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Mayurimane936/LeetCode-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Mayurimane936/LeetCode-/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Mayurimane936/LeetCode-/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Mayurimane936/LeetCode-/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Mayurimane936/LeetCode-/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Mayurimane936/LeetCode-/tree/master/0412-fizz-buzz) |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Mayurimane936/LeetCode-/tree/master/0861-flipping-an-image) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Mayurimane936/LeetCode-/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
