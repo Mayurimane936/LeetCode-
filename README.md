@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Mayurimane936/LeetCode-/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/Mayurimane936/LeetCode-/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/Mayurimane936/LeetCode-/tree/master/1013-fibonacci-number) |
 ## Sliding Window
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Mayurimane936/LeetCode-/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Mayurimane936/LeetCode-/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Mayurimane936/LeetCode-/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Mayurimane936/LeetCode-/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Mayurimane936/LeetCode-/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/Mayurimane936/LeetCode-/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Mayurimane936/LeetCode-/tree/master/0412-fizz-buzz) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Mayurimane936/LeetCode-/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Mayurimane936/LeetCode-/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
