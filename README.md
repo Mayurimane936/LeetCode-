@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Mayurimane936/LeetCode-/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Mayurimane936/LeetCode-/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/Mayurimane936/LeetCode-/tree/master/0782-jewels-and-stones) |
+| [1205-defanging-an-ip-address](https://github.com/Mayurimane936/LeetCode-/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/Mayurimane936/LeetCode-/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Mayurimane936/LeetCode-/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2502-sort-the-people](https://github.com/Mayurimane936/LeetCode-/tree/master/2502-sort-the-people) |
