@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mayurimane936/LeetCode-/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2502-sort-the-people](https://github.com/Mayurimane936/LeetCode-/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Mayurimane936/LeetCode-/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [3194-find-words-containing-character](https://github.com/Mayurimane936/LeetCode-/tree/master/3194-find-words-containing-character) |
 ## Backtracking
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/Mayurimane936/LeetCode-/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Mayurimane936/LeetCode-/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2502-sort-the-people](https://github.com/Mayurimane936/LeetCode-/tree/master/2502-sort-the-people) |
+| [3194-find-words-containing-character](https://github.com/Mayurimane936/LeetCode-/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Mayurimane936/LeetCode-/tree/master/3379-score-of-a-string) |
 ## Dynamic Programming
 |  |
