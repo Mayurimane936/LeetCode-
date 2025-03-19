@@ -13,10 +13,10 @@ public:
         }
         if((r-l+1)-maxf<=k) {
             maxlen= max(maxlen, (r-l+1));
-            r++;
+           
         }
        
-
+ r++;
         }
     return maxlen;
     }
