@@ -244,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Mayurimane936/LeetCode-/tree/master/0547-number-of-provinces) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Mayurimane936/LeetCode-/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
