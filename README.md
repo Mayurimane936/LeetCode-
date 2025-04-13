@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Mayurimane936/LeetCode-/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Mayurimane936/LeetCode-/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Mayurimane936/LeetCode-/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Mayurimane936/LeetCode-/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Mayurimane936/LeetCode-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Mayurimane936/LeetCode-/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Mayurimane936/LeetCode-/tree/master/0136-single-number) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Mayurimane936/LeetCode-/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Mayurimane936/LeetCode-/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Mayurimane936/LeetCode-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mayurimane936/LeetCode-/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Mayurimane936/LeetCode-/tree/master/0389-find-the-difference) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Mayurimane936/LeetCode-/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mayurimane936/LeetCode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mayurimane936/LeetCode-/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Mayurimane936/LeetCode-/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Mayurimane936/LeetCode-/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Mayurimane936/LeetCode-/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Mayurimane936/LeetCode-/tree/master/0392-is-subsequence) |
