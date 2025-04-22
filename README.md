@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/Mayurimane936/LeetCode-/tree/master/0176-second-highest-salary) |
 | [0182-duplicate-emails](https://github.com/Mayurimane936/LeetCode-/tree/master/0182-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/Mayurimane936/LeetCode-/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Mayurimane936/LeetCode-/tree/master/0595-big-countries) |
