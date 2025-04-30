@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Mayurimane936/LeetCode-/tree/master/1046-max-consecutive-ones-iii) |
 | [1256-rank-transform-of-an-array](https://github.com/Mayurimane936/LeetCode-/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Mayurimane936/LeetCode-/tree/master/1370-count-number-of-nice-subarrays) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Mayurimane936/LeetCode-/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Mayurimane936/LeetCode-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Mayurimane936/LeetCode-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1580-shuffle-the-array](https://github.com/Mayurimane936/LeetCode-/tree/master/1580-shuffle-the-array) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Mayurimane936/LeetCode-/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/Mayurimane936/LeetCode-/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Mayurimane936/LeetCode-/tree/master/1370-count-number-of-nice-subarrays) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Mayurimane936/LeetCode-/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1610-xor-operation-in-an-array](https://github.com/Mayurimane936/LeetCode-/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Mayurimane936/LeetCode-/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/Mayurimane936/LeetCode-/tree/master/2383-add-two-integers) |
