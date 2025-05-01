@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Mayurimane936/LeetCode-/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/Mayurimane936/LeetCode-/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Mayurimane936/LeetCode-/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/Mayurimane936/LeetCode-/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/Mayurimane936/LeetCode-/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mayurimane936/LeetCode-/tree/master/1046-max-consecutive-ones-iii) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Mayurimane936/LeetCode-/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -370,4 +371,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Mayurimane936/LeetCode-/tree/master/0387-first-unique-character-in-a-string) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Mayurimane936/LeetCode-/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
