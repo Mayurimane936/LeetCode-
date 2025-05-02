@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Mayurimane936/LeetCode-/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/Mayurimane936/LeetCode-/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Mayurimane936/LeetCode-/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/Mayurimane936/LeetCode-/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/Mayurimane936/LeetCode-/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Mayurimane936/LeetCode-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mayurimane936/LeetCode-/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Mayurimane936/LeetCode-/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Mayurimane936/LeetCode-/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Mayurimane936/LeetCode-/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/Mayurimane936/LeetCode-/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/Mayurimane936/LeetCode-/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mayurimane936/LeetCode-/tree/master/1046-max-consecutive-ones-iii) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Mayurimane936/LeetCode-/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
