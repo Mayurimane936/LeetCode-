@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Mayurimane936/LeetCode-/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mayurimane936/LeetCode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0782-jewels-and-stones](https://github.com/Mayurimane936/LeetCode-/tree/master/0782-jewels-and-stones) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Mayurimane936/LeetCode-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0940-fruit-into-baskets](https://github.com/Mayurimane936/LeetCode-/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Mayurimane936/LeetCode-/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Mayurimane936/LeetCode-/tree/master/1034-subarrays-with-k-different-integers) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/Mayurimane936/LeetCode-/tree/master/0434-number-of-segments-in-a-string) |
 | [0742-to-lower-case](https://github.com/Mayurimane936/LeetCode-/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Mayurimane936/LeetCode-/tree/master/0782-jewels-and-stones) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Mayurimane936/LeetCode-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1205-defanging-an-ip-address](https://github.com/Mayurimane936/LeetCode-/tree/master/1205-defanging-an-ip-address) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Mayurimane936/LeetCode-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1547-destination-city](https://github.com/Mayurimane936/LeetCode-/tree/master/1547-destination-city) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Mayurimane936/LeetCode-/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Mayurimane936/LeetCode-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mayurimane936/LeetCode-/tree/master/0387-first-unique-character-in-a-string) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Mayurimane936/LeetCode-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Mayurimane936/LeetCode-/tree/master/1034-subarrays-with-k-different-integers) |
 | [1635-number-of-good-pairs](https://github.com/Mayurimane936/LeetCode-/tree/master/1635-number-of-good-pairs) |
 | [3778-transform-array-by-parity](https://github.com/Mayurimane936/LeetCode-/tree/master/3778-transform-array-by-parity) |
