@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Mayurimane936/LeetCode-/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Mayurimane936/LeetCode-/tree/master/0392-is-subsequence) |
 | [0861-flipping-an-image](https://github.com/Mayurimane936/LeetCode-/tree/master/0861-flipping-an-image) |
+| [2128-reverse-prefix-of-word](https://github.com/Mayurimane936/LeetCode-/tree/master/2128-reverse-prefix-of-word) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mayurimane936/LeetCode-/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Mayurimane936/LeetCode-/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Mayurimane936/LeetCode-/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-destination-city](https://github.com/Mayurimane936/LeetCode-/tree/master/1547-destination-city) |
 | [1651-shuffle-string](https://github.com/Mayurimane936/LeetCode-/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Mayurimane936/LeetCode-/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [2128-reverse-prefix-of-word](https://github.com/Mayurimane936/LeetCode-/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Mayurimane936/LeetCode-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2502-sort-the-people](https://github.com/Mayurimane936/LeetCode-/tree/master/2502-sort-the-people) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Mayurimane936/LeetCode-/tree/master/2819-remove-trailing-zeros-from-a-string) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Mayurimane936/LeetCode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mayurimane936/LeetCode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mayurimane936/LeetCode-/tree/master/0145-binary-tree-postorder-traversal) |
+| [2128-reverse-prefix-of-word](https://github.com/Mayurimane936/LeetCode-/tree/master/2128-reverse-prefix-of-word) |
 ## Binary Search
 |  |
 | ------- |
