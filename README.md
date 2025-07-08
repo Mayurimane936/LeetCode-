@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/Mayurimane936/LeetCode-/tree/master/3321-type-of-triangle) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mayurimane936/LeetCode-/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mayurimane936/LeetCode-/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Mayurimane936/LeetCode-/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3778-transform-array-by-parity](https://github.com/Mayurimane936/LeetCode-/tree/master/3778-transform-array-by-parity) |
 ## Backtracking
 |  |
