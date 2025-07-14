@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/Mayurimane936/LeetCode-/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/Mayurimane936/LeetCode-/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/Mayurimane936/LeetCode-/tree/master/3321-type-of-triangle) |
+| [3429-special-array-i](https://github.com/Mayurimane936/LeetCode-/tree/master/3429-special-array-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mayurimane936/LeetCode-/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3533-snake-in-matrix](https://github.com/Mayurimane936/LeetCode-/tree/master/3533-snake-in-matrix) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mayurimane936/LeetCode-/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
