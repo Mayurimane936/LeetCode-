@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Mayurimane936/LeetCode-/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Mayurimane936/LeetCode-/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Mayurimane936/LeetCode-/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Mayurimane936/LeetCode-/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Mayurimane936/LeetCode-/tree/master/0389-find-the-difference) |
 | [0861-flipping-an-image](https://github.com/Mayurimane936/LeetCode-/tree/master/0861-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mayurimane936/LeetCode-/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Mayurimane936/LeetCode-/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Mayurimane936/LeetCode-/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Mayurimane936/LeetCode-/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Mayurimane936/LeetCode-/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Mayurimane936/LeetCode-/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Mayurimane936/LeetCode-/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Mayurimane936/LeetCode-/tree/master/0441-arranging-coins) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Mayurimane936/LeetCode-/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Mayurimane936/LeetCode-/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Mayurimane936/LeetCode-/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
