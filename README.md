@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Mayurimane936/LeetCode-/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Mayurimane936/LeetCode-/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Mayurimane936/LeetCode-/tree/master/0141-linked-list-cycle) |
+| [0151-reverse-words-in-a-string](https://github.com/Mayurimane936/LeetCode-/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Mayurimane936/LeetCode-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Mayurimane936/LeetCode-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Mayurimane936/LeetCode-/tree/master/0344-reverse-string) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Mayurimane936/LeetCode-/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Mayurimane936/LeetCode-/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Mayurimane936/LeetCode-/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Mayurimane936/LeetCode-/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Mayurimane936/LeetCode-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Mayurimane936/LeetCode-/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Mayurimane936/LeetCode-/tree/master/0290-word-pattern) |
