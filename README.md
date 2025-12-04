@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Mayurimane936/LeetCode-/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Mayurimane936/LeetCode-/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Mayurimane936/LeetCode-/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/Mayurimane936/LeetCode-/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Mayurimane936/LeetCode-/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Mayurimane936/LeetCode-/tree/master/0389-find-the-difference) |
 | [0861-flipping-an-image](https://github.com/Mayurimane936/LeetCode-/tree/master/0861-flipping-an-image) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mayurimane936/LeetCode-/tree/master/0070-climbing-stairs) |
+| [0338-counting-bits](https://github.com/Mayurimane936/LeetCode-/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Mayurimane936/LeetCode-/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/Mayurimane936/LeetCode-/tree/master/1013-fibonacci-number) |
 ## Sliding Window
