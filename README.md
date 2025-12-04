@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2756-buy-two-chocolates](https://github.com/Mayurimane936/LeetCode-/tree/master/2756-buy-two-chocolates) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Mayurimane936/LeetCode-/tree/master/2836-neither-minimum-nor-maximum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Mayurimane936/LeetCode-/tree/master/2844-sum-of-squares-of-special-elements) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Mayurimane936/LeetCode-/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Mayurimane936/LeetCode-/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/Mayurimane936/LeetCode-/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/Mayurimane936/LeetCode-/tree/master/3226-minimum-number-game) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Mayurimane936/LeetCode-/tree/master/0861-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mayurimane936/LeetCode-/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/Mayurimane936/LeetCode-/tree/master/1610-xor-operation-in-an-array) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Mayurimane936/LeetCode-/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Hash Table
 |  |
 | ------- |
