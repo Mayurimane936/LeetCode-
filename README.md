@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Mayurimane936/LeetCode-/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Mayurimane936/LeetCode-/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mayurimane936/LeetCode-/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/Mayurimane936/LeetCode-/tree/master/0451-sort-characters-by-frequency) |
 | [0782-jewels-and-stones](https://github.com/Mayurimane936/LeetCode-/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Mayurimane936/LeetCode-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0940-fruit-into-baskets](https://github.com/Mayurimane936/LeetCode-/tree/master/0940-fruit-into-baskets) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Mayurimane936/LeetCode-/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Mayurimane936/LeetCode-/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Mayurimane936/LeetCode-/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/Mayurimane936/LeetCode-/tree/master/0451-sort-characters-by-frequency) |
 | [1137-height-checker](https://github.com/Mayurimane936/LeetCode-/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Mayurimane936/LeetCode-/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Mayurimane936/LeetCode-/tree/master/1256-rank-transform-of-an-array) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Mayurimane936/LeetCode-/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mayurimane936/LeetCode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/Mayurimane936/LeetCode-/tree/master/0434-number-of-segments-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Mayurimane936/LeetCode-/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Mayurimane936/LeetCode-/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Mayurimane936/LeetCode-/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/Mayurimane936/LeetCode-/tree/master/0742-to-lower-case) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Mayurimane936/LeetCode-/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Mayurimane936/LeetCode-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mayurimane936/LeetCode-/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Mayurimane936/LeetCode-/tree/master/0451-sort-characters-by-frequency) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Mayurimane936/LeetCode-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Mayurimane936/LeetCode-/tree/master/1034-subarrays-with-k-different-integers) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mayurimane936/LeetCode-/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -519,10 +523,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Mayurimane936/LeetCode-/tree/master/0451-sort-characters-by-frequency) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Mayurimane936/LeetCode-/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3226-minimum-number-game](https://github.com/Mayurimane936/LeetCode-/tree/master/3226-minimum-number-game) |
 ## Ordered Set
 |  |
 | ------- |
 | [2447-merge-similar-items](https://github.com/Mayurimane936/LeetCode-/tree/master/2447-merge-similar-items) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Mayurimane936/LeetCode-/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
