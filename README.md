@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3515-find-if-digit-game-can-be-won](https://github.com/Mayurimane936/LeetCode-/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3533-snake-in-matrix](https://github.com/Mayurimane936/LeetCode-/tree/master/3533-snake-in-matrix) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mayurimane936/LeetCode-/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3668-restore-finishing-order](https://github.com/Mayurimane936/LeetCode-/tree/master/3668-restore-finishing-order) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Mayurimane936/LeetCode-/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3778-transform-array-by-parity](https://github.com/Mayurimane936/LeetCode-/tree/master/3778-transform-array-by-parity) |
 | [4058-compute-alternating-sum](https://github.com/Mayurimane936/LeetCode-/tree/master/4058-compute-alternating-sum) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Mayurimane936/LeetCode-/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3227-find-missing-and-repeated-values](https://github.com/Mayurimane936/LeetCode-/tree/master/3227-find-missing-and-repeated-values) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mayurimane936/LeetCode-/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3668-restore-finishing-order](https://github.com/Mayurimane936/LeetCode-/tree/master/3668-restore-finishing-order) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Mayurimane936/LeetCode-/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
