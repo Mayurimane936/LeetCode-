@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Mayurimane936/LeetCode-/tree/master/0861-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Mayurimane936/LeetCode-/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/Mayurimane936/LeetCode-/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/Mayurimane936/LeetCode-/tree/master/0922-sort-array-by-parity-ii) |
 | [0940-fruit-into-baskets](https://github.com/Mayurimane936/LeetCode-/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Mayurimane936/LeetCode-/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Mayurimane936/LeetCode-/tree/master/1034-subarrays-with-k-different-integers) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Mayurimane936/LeetCode-/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Mayurimane936/LeetCode-/tree/master/0451-sort-characters-by-frequency) |
 | [0905-sort-array-by-parity](https://github.com/Mayurimane936/LeetCode-/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/Mayurimane936/LeetCode-/tree/master/0922-sort-array-by-parity-ii) |
 | [1137-height-checker](https://github.com/Mayurimane936/LeetCode-/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Mayurimane936/LeetCode-/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Mayurimane936/LeetCode-/tree/master/1256-rank-transform-of-an-array) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Mayurimane936/LeetCode-/tree/master/0680-valid-palindrome-ii) |
 | [0861-flipping-an-image](https://github.com/Mayurimane936/LeetCode-/tree/master/0861-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/Mayurimane936/LeetCode-/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/Mayurimane936/LeetCode-/tree/master/0922-sort-array-by-parity-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Mayurimane936/LeetCode-/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2128-reverse-prefix-of-word](https://github.com/Mayurimane936/LeetCode-/tree/master/2128-reverse-prefix-of-word) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mayurimane936/LeetCode-/tree/master/2271-rearrange-array-elements-by-sign) |
