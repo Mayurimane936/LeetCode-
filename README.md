@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Mayurimane936/LeetCode-/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Mayurimane936/LeetCode-/tree/master/0922-sort-array-by-parity-ii) |
 | [0940-fruit-into-baskets](https://github.com/Mayurimane936/LeetCode-/tree/master/0940-fruit-into-baskets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Mayurimane936/LeetCode-/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Mayurimane936/LeetCode-/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Mayurimane936/LeetCode-/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/Mayurimane936/LeetCode-/tree/master/1036-rotting-oranges) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Mayurimane936/LeetCode-/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Mayurimane936/LeetCode-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0940-fruit-into-baskets](https://github.com/Mayurimane936/LeetCode-/tree/master/0940-fruit-into-baskets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Mayurimane936/LeetCode-/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Mayurimane936/LeetCode-/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Mayurimane936/LeetCode-/tree/master/1034-subarrays-with-k-different-integers) |
 | [1217-relative-sort-array](https://github.com/Mayurimane936/LeetCode-/tree/master/1217-relative-sort-array) |
