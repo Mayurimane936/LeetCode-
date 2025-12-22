@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Mayurimane936/LeetCode-/tree/master/2058-concatenation-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Mayurimane936/LeetCode-/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mayurimane936/LeetCode-/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Mayurimane936/LeetCode-/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Mayurimane936/LeetCode-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Mayurimane936/LeetCode-/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mayurimane936/LeetCode-/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Mayurimane936/LeetCode-/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/Mayurimane936/LeetCode-/tree/master/1970-sorting-the-sentence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Mayurimane936/LeetCode-/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Mayurimane936/LeetCode-/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2128-reverse-prefix-of-word](https://github.com/Mayurimane936/LeetCode-/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Mayurimane936/LeetCode-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2502-sort-the-people](https://github.com/Mayurimane936/LeetCode-/tree/master/2502-sort-the-people) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Mayurimane936/LeetCode-/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/Mayurimane936/LeetCode-/tree/master/1806-count-of-matches-in-tournament) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Mayurimane936/LeetCode-/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Mayurimane936/LeetCode-/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Mayurimane936/LeetCode-/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2383-add-two-integers](https://github.com/Mayurimane936/LeetCode-/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Mayurimane936/LeetCode-/tree/master/2491-smallest-even-multiple) |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Mayurimane936/LeetCode-/tree/master/0861-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Mayurimane936/LeetCode-/tree/master/0867-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/Mayurimane936/LeetCode-/tree/master/1036-rotting-oranges) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Mayurimane936/LeetCode-/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3227-find-missing-and-repeated-values](https://github.com/Mayurimane936/LeetCode-/tree/master/3227-find-missing-and-repeated-values) |
 ## Counting
 |  |
