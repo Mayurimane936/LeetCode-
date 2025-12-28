@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Mayurimane936/LeetCode-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Mayurimane936/LeetCode-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1547-destination-city](https://github.com/Mayurimane936/LeetCode-/tree/master/1547-destination-city) |
+| [1572-matrix-diagonal-sum](https://github.com/Mayurimane936/LeetCode-/tree/master/1572-matrix-diagonal-sum) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Mayurimane936/LeetCode-/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Mayurimane936/LeetCode-/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Mayurimane936/LeetCode-/tree/master/1603-running-sum-of-1d-array) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Mayurimane936/LeetCode-/tree/master/0861-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Mayurimane936/LeetCode-/tree/master/0867-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/Mayurimane936/LeetCode-/tree/master/1036-rotting-oranges) |
+| [1572-matrix-diagonal-sum](https://github.com/Mayurimane936/LeetCode-/tree/master/1572-matrix-diagonal-sum) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Mayurimane936/LeetCode-/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3227-find-missing-and-repeated-values](https://github.com/Mayurimane936/LeetCode-/tree/master/3227-find-missing-and-repeated-values) |
 ## Counting
