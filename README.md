@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/Mayurimane936/LeetCode-/tree/master/1773-count-items-matching-a-rule) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Mayurimane936/LeetCode-/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/Mayurimane936/LeetCode-/tree/master/1797-goal-parser-interpretation) |
+| [1844-replace-all-digits-with-characters](https://github.com/Mayurimane936/LeetCode-/tree/master/1844-replace-all-digits-with-characters) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Mayurimane936/LeetCode-/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1944-truncate-sentence](https://github.com/Mayurimane936/LeetCode-/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Mayurimane936/LeetCode-/tree/master/1960-check-if-the-sentence-is-pangram) |
