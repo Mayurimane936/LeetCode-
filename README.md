@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mayurimane936/LeetCode-/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mayurimane936/LeetCode-/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2447-merge-similar-items](https://github.com/Mayurimane936/LeetCode-/tree/master/2447-merge-similar-items) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Mayurimane936/LeetCode-/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2502-sort-the-people](https://github.com/Mayurimane936/LeetCode-/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Mayurimane936/LeetCode-/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2678-number-of-senior-citizens](https://github.com/Mayurimane936/LeetCode-/tree/master/2678-number-of-senior-citizens) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Mayurimane936/LeetCode-/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mayurimane936/LeetCode-/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2447-merge-similar-items](https://github.com/Mayurimane936/LeetCode-/tree/master/2447-merge-similar-items) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Mayurimane936/LeetCode-/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2502-sort-the-people](https://github.com/Mayurimane936/LeetCode-/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Mayurimane936/LeetCode-/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2756-buy-two-chocolates](https://github.com/Mayurimane936/LeetCode-/tree/master/2756-buy-two-chocolates) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/Mayurimane936/LeetCode-/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mayurimane936/LeetCode-/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mayurimane936/LeetCode-/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Mayurimane936/LeetCode-/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3226-minimum-number-game](https://github.com/Mayurimane936/LeetCode-/tree/master/3226-minimum-number-game) |
 | [3533-snake-in-matrix](https://github.com/Mayurimane936/LeetCode-/tree/master/3533-snake-in-matrix) |
 | [3811-reverse-degree-of-a-string](https://github.com/Mayurimane936/LeetCode-/tree/master/3811-reverse-degree-of-a-string) |
@@ -462,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mayurimane936/LeetCode-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Mayurimane936/LeetCode-/tree/master/1572-matrix-diagonal-sum) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Mayurimane936/LeetCode-/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Mayurimane936/LeetCode-/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3227-find-missing-and-repeated-values](https://github.com/Mayurimane936/LeetCode-/tree/master/3227-find-missing-and-repeated-values) |
 ## Counting
 |  |
@@ -571,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Mayurimane936/LeetCode-/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Mayurimane936/LeetCode-/tree/master/0451-sort-characters-by-frequency) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Mayurimane936/LeetCode-/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Mayurimane936/LeetCode-/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3226-minimum-number-game](https://github.com/Mayurimane936/LeetCode-/tree/master/3226-minimum-number-game) |
 ## Ordered Set
 |  |
