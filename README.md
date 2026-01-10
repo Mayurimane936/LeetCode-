@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Mayurimane936/LeetCode-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Mayurimane936/LeetCode-/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Mayurimane936/LeetCode-/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Mayurimane936/LeetCode-/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mayurimane936/LeetCode-/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mayurimane936/LeetCode-/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2447-merge-similar-items](https://github.com/Mayurimane936/LeetCode-/tree/master/2447-merge-similar-items) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/Mayurimane936/LeetCode-/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Mayurimane936/LeetCode-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Mayurimane936/LeetCode-/tree/master/2138-divide-a-string-into-groups-of-size-k) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Mayurimane936/LeetCode-/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2502-sort-the-people](https://github.com/Mayurimane936/LeetCode-/tree/master/2502-sort-the-people) |
 | [2678-number-of-senior-citizens](https://github.com/Mayurimane936/LeetCode-/tree/master/2678-number-of-senior-citizens) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Mayurimane936/LeetCode-/tree/master/2819-remove-trailing-zeros-from-a-string) |
@@ -590,4 +592,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Mayurimane936/LeetCode-/tree/master/0347-top-k-frequent-elements) |
+## String Matching
+|  |
+| ------- |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Mayurimane936/LeetCode-/tree/master/2185-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
