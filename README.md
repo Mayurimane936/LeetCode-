@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Mayurimane936/LeetCode-/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2678-number-of-senior-citizens](https://github.com/Mayurimane936/LeetCode-/tree/master/2678-number-of-senior-citizens) |
 | [2756-buy-two-chocolates](https://github.com/Mayurimane936/LeetCode-/tree/master/2756-buy-two-chocolates) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Mayurimane936/LeetCode-/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Mayurimane936/LeetCode-/tree/master/2836-neither-minimum-nor-maximum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Mayurimane936/LeetCode-/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Mayurimane936/LeetCode-/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Mayurimane936/LeetCode-/tree/master/2502-sort-the-people) |
 | [2678-number-of-senior-citizens](https://github.com/Mayurimane936/LeetCode-/tree/master/2678-number-of-senior-citizens) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Mayurimane936/LeetCode-/tree/master/2819-remove-trailing-zeros-from-a-string) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Mayurimane936/LeetCode-/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/Mayurimane936/LeetCode-/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Mayurimane936/LeetCode-/tree/master/3379-score-of-a-string) |
 | [3533-snake-in-matrix](https://github.com/Mayurimane936/LeetCode-/tree/master/3533-snake-in-matrix) |
