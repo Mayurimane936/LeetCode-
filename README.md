@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Mayurimane936/LeetCode-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1547-destination-city](https://github.com/Mayurimane936/LeetCode-/tree/master/1547-destination-city) |
 | [1651-shuffle-string](https://github.com/Mayurimane936/LeetCode-/tree/master/1651-shuffle-string) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Mayurimane936/LeetCode-/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1773-count-items-matching-a-rule](https://github.com/Mayurimane936/LeetCode-/tree/master/1773-count-items-matching-a-rule) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Mayurimane936/LeetCode-/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/Mayurimane936/LeetCode-/tree/master/1797-goal-parser-interpretation) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mayurimane936/LeetCode-/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mayurimane936/LeetCode-/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Mayurimane936/LeetCode-/tree/master/1635-number-of-good-pairs) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Mayurimane936/LeetCode-/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1848-sum-of-unique-elements](https://github.com/Mayurimane936/LeetCode-/tree/master/1848-sum-of-unique-elements) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mayurimane936/LeetCode-/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3778-transform-array-by-parity](https://github.com/Mayurimane936/LeetCode-/tree/master/3778-transform-array-by-parity) |
