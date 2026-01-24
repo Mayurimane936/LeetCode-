@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/Mayurimane936/LeetCode-/tree/master/1773-count-items-matching-a-rule) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Mayurimane936/LeetCode-/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1848-sum-of-unique-elements](https://github.com/Mayurimane936/LeetCode-/tree/master/1848-sum-of-unique-elements) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Mayurimane936/LeetCode-/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1944-truncate-sentence](https://github.com/Mayurimane936/LeetCode-/tree/master/1944-truncate-sentence) |
 | [2058-concatenation-of-array](https://github.com/Mayurimane936/LeetCode-/tree/master/2058-concatenation-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Mayurimane936/LeetCode-/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Mayurimane936/LeetCode-/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mayurimane936/LeetCode-/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Mayurimane936/LeetCode-/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Mayurimane936/LeetCode-/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1970-sorting-the-sentence](https://github.com/Mayurimane936/LeetCode-/tree/master/1970-sorting-the-sentence) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Mayurimane936/LeetCode-/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mayurimane936/LeetCode-/tree/master/2274-keep-multiplying-found-values-by-two) |
