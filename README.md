@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/Mayurimane936/LeetCode-/tree/master/1656-count-good-triplets) |
 | [1773-count-items-matching-a-rule](https://github.com/Mayurimane936/LeetCode-/tree/master/1773-count-items-matching-a-rule) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Mayurimane936/LeetCode-/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Mayurimane936/LeetCode-/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1848-sum-of-unique-elements](https://github.com/Mayurimane936/LeetCode-/tree/master/1848-sum-of-unique-elements) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Mayurimane936/LeetCode-/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1944-truncate-sentence](https://github.com/Mayurimane936/LeetCode-/tree/master/1944-truncate-sentence) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/Mayurimane936/LeetCode-/tree/master/0942-di-string-match) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mayurimane936/LeetCode-/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/Mayurimane936/LeetCode-/tree/master/1448-maximum-69-number) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Mayurimane936/LeetCode-/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Mayurimane936/LeetCode-/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2756-buy-two-chocolates](https://github.com/Mayurimane936/LeetCode-/tree/master/2756-buy-two-chocolates) |
 ## Database
