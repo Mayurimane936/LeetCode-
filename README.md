@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3533-snake-in-matrix](https://github.com/Mayurimane936/LeetCode-/tree/master/3533-snake-in-matrix) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mayurimane936/LeetCode-/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/Mayurimane936/LeetCode-/tree/master/3668-restore-finishing-order) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Mayurimane936/LeetCode-/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Mayurimane936/LeetCode-/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3778-transform-array-by-parity](https://github.com/Mayurimane936/LeetCode-/tree/master/3778-transform-array-by-parity) |
 | [4058-compute-alternating-sum](https://github.com/Mayurimane936/LeetCode-/tree/master/4058-compute-alternating-sum) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mayurimane936/LeetCode-/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/Mayurimane936/LeetCode-/tree/master/1610-xor-operation-in-an-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Mayurimane936/LeetCode-/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Mayurimane936/LeetCode-/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/Mayurimane936/LeetCode-/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3226-minimum-number-game](https://github.com/Mayurimane936/LeetCode-/tree/master/3226-minimum-number-game) |
 | [3533-snake-in-matrix](https://github.com/Mayurimane936/LeetCode-/tree/master/3533-snake-in-matrix) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Mayurimane936/LeetCode-/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3811-reverse-degree-of-a-string](https://github.com/Mayurimane936/LeetCode-/tree/master/3811-reverse-degree-of-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Mayurimane936/LeetCode-/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [4058-compute-alternating-sum](https://github.com/Mayurimane936/LeetCode-/tree/master/4058-compute-alternating-sum) |
