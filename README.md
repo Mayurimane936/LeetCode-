@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-reverse-string-prefix](https://github.com/Mayurimane936/LeetCode-/tree/master/3794-reverse-string-prefix) |
 | [3811-reverse-degree-of-a-string](https://github.com/Mayurimane936/LeetCode-/tree/master/3811-reverse-degree-of-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Mayurimane936/LeetCode-/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3856-trim-trailing-vowels](https://github.com/Mayurimane936/LeetCode-/tree/master/3856-trim-trailing-vowels) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Mayurimane936/LeetCode-/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
