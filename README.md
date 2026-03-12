@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Mayurimane936/LeetCode-/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mayurimane936/LeetCode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Mayurimane936/LeetCode-/tree/master/0451-sort-characters-by-frequency) |
+| [0763-partition-labels](https://github.com/Mayurimane936/LeetCode-/tree/master/0763-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Mayurimane936/LeetCode-/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Mayurimane936/LeetCode-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0940-fruit-into-baskets](https://github.com/Mayurimane936/LeetCode-/tree/master/0940-fruit-into-baskets) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Mayurimane936/LeetCode-/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Mayurimane936/LeetCode-/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Mayurimane936/LeetCode-/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/Mayurimane936/LeetCode-/tree/master/0763-partition-labels) |
 | [0861-flipping-an-image](https://github.com/Mayurimane936/LeetCode-/tree/master/0861-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/Mayurimane936/LeetCode-/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Mayurimane936/LeetCode-/tree/master/0922-sort-array-by-parity-ii) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Mayurimane936/LeetCode-/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Mayurimane936/LeetCode-/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/Mayurimane936/LeetCode-/tree/master/0742-to-lower-case) |
+| [0763-partition-labels](https://github.com/Mayurimane936/LeetCode-/tree/master/0763-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Mayurimane936/LeetCode-/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Mayurimane936/LeetCode-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0942-di-string-match](https://github.com/Mayurimane936/LeetCode-/tree/master/0942-di-string-match) |
@@ -552,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Mayurimane936/LeetCode-/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/Mayurimane936/LeetCode-/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/Mayurimane936/LeetCode-/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/Mayurimane936/LeetCode-/tree/master/0763-partition-labels) |
 | [0942-di-string-match](https://github.com/Mayurimane936/LeetCode-/tree/master/0942-di-string-match) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mayurimane936/LeetCode-/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Mayurimane936/LeetCode-/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
