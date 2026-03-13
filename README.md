@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Mayurimane936/LeetCode-/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/Mayurimane936/LeetCode-/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/Mayurimane936/LeetCode-/tree/master/1656-count-good-triplets) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mayurimane936/LeetCode-/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1773-count-items-matching-a-rule](https://github.com/Mayurimane936/LeetCode-/tree/master/1773-count-items-matching-a-rule) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Mayurimane936/LeetCode-/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Mayurimane936/LeetCode-/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/Mayurimane936/LeetCode-/tree/master/1651-shuffle-string) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Mayurimane936/LeetCode-/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/Mayurimane936/LeetCode-/tree/master/1768-merge-strings-alternately) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mayurimane936/LeetCode-/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1773-count-items-matching-a-rule](https://github.com/Mayurimane936/LeetCode-/tree/master/1773-count-items-matching-a-rule) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Mayurimane936/LeetCode-/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/Mayurimane936/LeetCode-/tree/master/1797-goal-parser-interpretation) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Mayurimane936/LeetCode-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Mayurimane936/LeetCode-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/Mayurimane936/LeetCode-/tree/master/1603-running-sum-of-1d-array) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mayurimane936/LeetCode-/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2571-find-the-pivot-integer](https://github.com/Mayurimane936/LeetCode-/tree/master/2571-find-the-pivot-integer) |
 ## Matrix
 |  |
