@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Mayurimane936/LeetCode-/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1944-truncate-sentence](https://github.com/Mayurimane936/LeetCode-/tree/master/1944-truncate-sentence) |
 | [2058-concatenation-of-array](https://github.com/Mayurimane936/LeetCode-/tree/master/2058-concatenation-of-array) |
+| [2079-watering-plants](https://github.com/Mayurimane936/LeetCode-/tree/master/2079-watering-plants) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Mayurimane936/LeetCode-/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mayurimane936/LeetCode-/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Mayurimane936/LeetCode-/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Mayurimane936/LeetCode-/tree/master/0867-transpose-matrix) |
 | [1806-count-of-matches-in-tournament](https://github.com/Mayurimane936/LeetCode-/tree/master/1806-count-of-matches-in-tournament) |
 | [2058-concatenation-of-array](https://github.com/Mayurimane936/LeetCode-/tree/master/2058-concatenation-of-array) |
+| [2079-watering-plants](https://github.com/Mayurimane936/LeetCode-/tree/master/2079-watering-plants) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Mayurimane936/LeetCode-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Mayurimane936/LeetCode-/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Mayurimane936/LeetCode-/tree/master/2161-partition-array-according-to-given-pivot) |
