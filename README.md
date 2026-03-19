@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/Mayurimane936/LeetCode-/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mayurimane936/LeetCode-/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mayurimane936/LeetCode-/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2326-spiral-matrix-iv](https://github.com/Mayurimane936/LeetCode-/tree/master/2326-spiral-matrix-iv) |
 | [2447-merge-similar-items](https://github.com/Mayurimane936/LeetCode-/tree/master/2447-merge-similar-items) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Mayurimane936/LeetCode-/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2502-sort-the-people](https://github.com/Mayurimane936/LeetCode-/tree/master/2502-sort-the-people) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/Mayurimane936/LeetCode-/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mayurimane936/LeetCode-/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mayurimane936/LeetCode-/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2326-spiral-matrix-iv](https://github.com/Mayurimane936/LeetCode-/tree/master/2326-spiral-matrix-iv) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Mayurimane936/LeetCode-/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Mayurimane936/LeetCode-/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3226-minimum-number-game](https://github.com/Mayurimane936/LeetCode-/tree/master/3226-minimum-number-game) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mayurimane936/LeetCode-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Mayurimane936/LeetCode-/tree/master/1572-matrix-diagonal-sum) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Mayurimane936/LeetCode-/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2326-spiral-matrix-iv](https://github.com/Mayurimane936/LeetCode-/tree/master/2326-spiral-matrix-iv) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Mayurimane936/LeetCode-/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3227-find-missing-and-repeated-values](https://github.com/Mayurimane936/LeetCode-/tree/master/3227-find-missing-and-repeated-values) |
 ## Counting
@@ -562,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Mayurimane936/LeetCode-/tree/master/0141-linked-list-cycle) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mayurimane936/LeetCode-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Mayurimane936/LeetCode-/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2326-spiral-matrix-iv](https://github.com/Mayurimane936/LeetCode-/tree/master/2326-spiral-matrix-iv) |
 ## Greedy
 |  |
 | ------- |
