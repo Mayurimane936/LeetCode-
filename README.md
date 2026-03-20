@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Mayurimane936/LeetCode-/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Mayurimane936/LeetCode-/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/Mayurimane936/LeetCode-/tree/master/3194-find-words-containing-character) |
+| [3271-hash-divided-string](https://github.com/Mayurimane936/LeetCode-/tree/master/3271-hash-divided-string) |
 | [3379-score-of-a-string](https://github.com/Mayurimane936/LeetCode-/tree/master/3379-score-of-a-string) |
 | [3533-snake-in-matrix](https://github.com/Mayurimane936/LeetCode-/tree/master/3533-snake-in-matrix) |
 | [3636-check-balanced-string](https://github.com/Mayurimane936/LeetCode-/tree/master/3636-check-balanced-string) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/Mayurimane936/LeetCode-/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Mayurimane936/LeetCode-/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3226-minimum-number-game](https://github.com/Mayurimane936/LeetCode-/tree/master/3226-minimum-number-game) |
+| [3271-hash-divided-string](https://github.com/Mayurimane936/LeetCode-/tree/master/3271-hash-divided-string) |
 | [3533-snake-in-matrix](https://github.com/Mayurimane936/LeetCode-/tree/master/3533-snake-in-matrix) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Mayurimane936/LeetCode-/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3811-reverse-degree-of-a-string](https://github.com/Mayurimane936/LeetCode-/tree/master/3811-reverse-degree-of-a-string) |
