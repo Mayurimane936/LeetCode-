@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/Mayurimane936/LeetCode-/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Mayurimane936/LeetCode-/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Mayurimane936/LeetCode-/tree/master/1256-rank-transform-of-an-array) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Mayurimane936/LeetCode-/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mayurimane936/LeetCode-/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Mayurimane936/LeetCode-/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Mayurimane936/LeetCode-/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mayurimane936/LeetCode-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Mayurimane936/LeetCode-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Mayurimane936/LeetCode-/tree/master/0975-range-sum-of-bst) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Mayurimane936/LeetCode-/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2384-root-equals-sum-of-children](https://github.com/Mayurimane936/LeetCode-/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mayurimane936/LeetCode-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/Mayurimane936/LeetCode-/tree/master/0733-flood-fill) |
 | [0975-range-sum-of-bst](https://github.com/Mayurimane936/LeetCode-/tree/master/0975-range-sum-of-bst) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Mayurimane936/LeetCode-/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -470,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mayurimane936/LeetCode-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Mayurimane936/LeetCode-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Mayurimane936/LeetCode-/tree/master/0975-range-sum-of-bst) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Mayurimane936/LeetCode-/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2384-root-equals-sum-of-children](https://github.com/Mayurimane936/LeetCode-/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Search Tree
 |  |
@@ -477,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mayurimane936/LeetCode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Mayurimane936/LeetCode-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Mayurimane936/LeetCode-/tree/master/0975-range-sum-of-bst) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Mayurimane936/LeetCode-/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Simulation
 |  |
 | ------- |
