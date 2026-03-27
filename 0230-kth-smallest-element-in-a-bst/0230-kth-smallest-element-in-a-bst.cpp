@@ -10,18 +10,24 @@
  * };
  */
 class Solution {
-    void traverse(TreeNode* root, vector<int>& v) {
+    void traverse(TreeNode* root, int &k, int &ans, int &cnt) {
     if (!root) return;
-
-    v.push_back(root->val);  
-    traverse(root->left, v);  
-    traverse(root->right, v); 
+    
+    traverse(root->left, k, ans, cnt); 
+    cnt++;
+    if(k==cnt) {
+        ans = root->val;
+        return;
+    } 
+    traverse(root->right, k, ans, cnt); 
+    // return 0;
 }
 public:
     int kthSmallest(TreeNode* root, int k) {
-        vector<int>v;
-        traverse(root, v);
-        sort(v.begin(), v.end());
-        return v[k-1];
+        int ans = 0, cnt=0;
+        traverse(root, k, ans, cnt);
+        // sort(v.begin(), v.end());
+        // return v[k-1];
+        return ans;
     }
 };
