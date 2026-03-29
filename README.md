@@ -437,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Mayurimane936/LeetCode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mayurimane936/LeetCode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mayurimane936/LeetCode-/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Mayurimane936/LeetCode-/tree/master/0538-convert-bst-to-greater-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mayurimane936/LeetCode-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Mayurimane936/LeetCode-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Mayurimane936/LeetCode-/tree/master/0975-range-sum-of-bst) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Mayurimane936/LeetCode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mayurimane936/LeetCode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mayurimane936/LeetCode-/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Mayurimane936/LeetCode-/tree/master/0538-convert-bst-to-greater-tree) |
 | [0547-number-of-provinces](https://github.com/Mayurimane936/LeetCode-/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mayurimane936/LeetCode-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/Mayurimane936/LeetCode-/tree/master/0733-flood-fill) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Mayurimane936/LeetCode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mayurimane936/LeetCode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mayurimane936/LeetCode-/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Mayurimane936/LeetCode-/tree/master/0538-convert-bst-to-greater-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mayurimane936/LeetCode-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Mayurimane936/LeetCode-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Mayurimane936/LeetCode-/tree/master/0975-range-sum-of-bst) |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mayurimane936/LeetCode-/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Mayurimane936/LeetCode-/tree/master/0538-convert-bst-to-greater-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Mayurimane936/LeetCode-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Mayurimane936/LeetCode-/tree/master/0975-range-sum-of-bst) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Mayurimane936/LeetCode-/tree/master/1305-all-elements-in-two-binary-search-trees) |
