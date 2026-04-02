@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/Mayurimane936/LeetCode-/tree/master/3227-find-missing-and-repeated-values) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mayurimane936/LeetCode-/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/Mayurimane936/LeetCode-/tree/master/3668-restore-finishing-order) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Mayurimane936/LeetCode-/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Mayurimane936/LeetCode-/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-score-of-a-string](https://github.com/Mayurimane936/LeetCode-/tree/master/3379-score-of-a-string) |
 | [3533-snake-in-matrix](https://github.com/Mayurimane936/LeetCode-/tree/master/3533-snake-in-matrix) |
 | [3636-check-balanced-string](https://github.com/Mayurimane936/LeetCode-/tree/master/3636-check-balanced-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Mayurimane936/LeetCode-/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/Mayurimane936/LeetCode-/tree/master/3794-reverse-string-prefix) |
 | [3811-reverse-degree-of-a-string](https://github.com/Mayurimane936/LeetCode-/tree/master/3811-reverse-degree-of-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Mayurimane936/LeetCode-/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
