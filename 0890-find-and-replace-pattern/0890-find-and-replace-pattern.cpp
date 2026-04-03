@@ -24,14 +24,9 @@ class Solution {
 public:
     vector<string> findAndReplacePattern(vector<string>& words, string pattern) {
         vector<string>ans;
-        unordered_map<char, int>mp;
         int n = pattern.length();
         int m = words.size();
-        for(int i=0; i<n; i++) {
-            mp[pattern[i]]++;
-        }
         for(int i=0; i<m; i++) {
-            // vector<char>temp1, temp2;
             map<char, int>mp1, mp2;
             charMapping(pattern, words[i], mp1, mp2);
             if(!isMatchingStrings(pattern, words[i], mp1, mp2)){
