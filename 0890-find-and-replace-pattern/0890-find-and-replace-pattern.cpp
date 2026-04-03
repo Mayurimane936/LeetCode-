@@ -1,5 +1,4 @@
 class Solution {
-    
     void charMapping(string a, string b, map<char,int>& temp1, map<char,int>& temp2) {
         int index1 = 1, index2 = 1;
         int n = a.length();
@@ -12,14 +11,10 @@ class Solution {
             }
         }
     }
-
     bool isMatchingStrings(string a, string b, map<char, int>mp1, map<char, int>mp2){
         string ans1="", ans2="";
         int n = a.length();
         for(int i=0; i<n; i++) {
-            cout<<"mp1[a[i]] "<<mp1[a[i]]<<" "<<a[i]<<endl;
-            cout<<"mp2[b[i]] "<<mp2[b[i]]<<" "<<b[i]<<endl;
-
             ans1.push_back('0' + mp1[a[i]]);
             ans2.push_back('0' + mp2[b[i]]);
         }
@@ -42,24 +37,7 @@ public:
             if(!isMatchingStrings(pattern, words[i], mp1, mp2)){
                 continue; 
             }
-
-            unordered_map<char, int> temp;
-            for(int j=0; j<words[i].length(); j++){
-                temp[words[i][j]]++;
-            }
-            int cnt = 0;
-            for(int k=0; k<n; k++){
-                if(mp.size() == temp.size()){
-                    if(mp[pattern[k]] == temp[words[i][k]]){
-                        cnt++;
-                    } else {
-                        break;
-                    }
-                }
-            }
-            if(cnt==words[i].length()){
-                ans.push_back(words[i]);
-            }
+            ans.push_back(words[i]);
         }
         return ans;
     }
