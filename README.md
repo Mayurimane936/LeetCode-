@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Mayurimane936/LeetCode-/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/Mayurimane936/LeetCode-/tree/master/0861-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Mayurimane936/LeetCode-/tree/master/0867-transpose-matrix) |
+| [0890-find-and-replace-pattern](https://github.com/Mayurimane936/LeetCode-/tree/master/0890-find-and-replace-pattern) |
 | [0905-sort-array-by-parity](https://github.com/Mayurimane936/LeetCode-/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Mayurimane936/LeetCode-/tree/master/0922-sort-array-by-parity-ii) |
 | [0940-fruit-into-baskets](https://github.com/Mayurimane936/LeetCode-/tree/master/0940-fruit-into-baskets) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Mayurimane936/LeetCode-/tree/master/0451-sort-characters-by-frequency) |
 | [0763-partition-labels](https://github.com/Mayurimane936/LeetCode-/tree/master/0763-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Mayurimane936/LeetCode-/tree/master/0782-jewels-and-stones) |
+| [0890-find-and-replace-pattern](https://github.com/Mayurimane936/LeetCode-/tree/master/0890-find-and-replace-pattern) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Mayurimane936/LeetCode-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0940-fruit-into-baskets](https://github.com/Mayurimane936/LeetCode-/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mayurimane936/LeetCode-/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Mayurimane936/LeetCode-/tree/master/0742-to-lower-case) |
 | [0763-partition-labels](https://github.com/Mayurimane936/LeetCode-/tree/master/0763-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Mayurimane936/LeetCode-/tree/master/0782-jewels-and-stones) |
+| [0890-find-and-replace-pattern](https://github.com/Mayurimane936/LeetCode-/tree/master/0890-find-and-replace-pattern) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Mayurimane936/LeetCode-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0942-di-string-match](https://github.com/Mayurimane936/LeetCode-/tree/master/0942-di-string-match) |
 | [1205-defanging-an-ip-address](https://github.com/Mayurimane936/LeetCode-/tree/master/1205-defanging-an-ip-address) |
