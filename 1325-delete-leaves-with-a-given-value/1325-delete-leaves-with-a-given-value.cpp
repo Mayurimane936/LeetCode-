@@ -11,16 +11,12 @@
  */
 class Solution {
     bool checkIfLeafNode(TreeNode* root){
-        if(!root->left && !root->right){
-            return true;
-        }
-        return false;
+        return (!root->left && !root->right);
     }
     TreeNode* traverse(TreeNode* root, int target){
         if(!root){
             return NULL;
         }
-       
         root->left = traverse(root->left, target);
         root->right = traverse(root->right, target);
         if(root->val==target){
