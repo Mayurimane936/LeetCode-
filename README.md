@@ -448,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/Mayurimane936/LeetCode-/tree/master/0975-range-sum-of-bst) |
 | [1302-deepest-leaves-sum](https://github.com/Mayurimane936/LeetCode-/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Mayurimane936/LeetCode-/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/Mayurimane936/LeetCode-/tree/master/1325-delete-leaves-with-a-given-value) |
 | [2384-root-equals-sum-of-children](https://github.com/Mayurimane936/LeetCode-/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/Mayurimane936/LeetCode-/tree/master/0975-range-sum-of-bst) |
 | [1302-deepest-leaves-sum](https://github.com/Mayurimane936/LeetCode-/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Mayurimane936/LeetCode-/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/Mayurimane936/LeetCode-/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Binary Tree
 |  |
 | ------- |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/Mayurimane936/LeetCode-/tree/master/0975-range-sum-of-bst) |
 | [1302-deepest-leaves-sum](https://github.com/Mayurimane936/LeetCode-/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Mayurimane936/LeetCode-/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/Mayurimane936/LeetCode-/tree/master/1325-delete-leaves-with-a-given-value) |
 | [2384-root-equals-sum-of-children](https://github.com/Mayurimane936/LeetCode-/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Search Tree
 |  |
