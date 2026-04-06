@@ -9,12 +9,6 @@
  * };
  */
 class Solution {
-    void getLinkedListLength(ListNode* list, int &length){
-        while(list->next!=NULL){
-            list = list->next;
-            length++;
-        }
-    }
 public:
     ListNode* mergeInBetween(ListNode* list1, int a, int b, ListNode* list2) {
         ListNode * temp1 = list1;
@@ -35,7 +29,6 @@ public:
             dummy=dummy->next;
         }
 
-       
         while(temp1->next!=NULL) {
             if(start == a){
                 temp1->next = temp2;
@@ -45,11 +38,11 @@ public:
             end++;
             temp1= temp1->next;
         }
+
         while(temp2->next != NULL){
             temp2 = temp2->next;
         }   
         temp2->next = endd->next;
-
         return list1;
     }
 };
