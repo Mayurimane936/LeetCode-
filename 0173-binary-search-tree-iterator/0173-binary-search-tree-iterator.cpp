@@ -11,9 +11,6 @@
  */
 class BSTIterator {
     vector<int> vals;
-    bool hasNextt = false;
-    bool calledNext = false;
-    bool calledHasNext = false;
     int val = -1;
     int i = 0;
 
@@ -33,33 +30,17 @@ public:
     }
     
     int next() {
-        calledNext = true;
-        while(i < vals.size()){
-
-            if(calledNext){
-                if(i < vals.size()){
-                    val = vals[i];
-                }
-                i++;
-                calledNext = false;
-            }
-            if(!calledNext) break;
-        }
+        val = vals[i];
+        i++;   
         return val;
     }
     
     bool hasNext() {
-        calledHasNext = true;
+        int n = vals.size();
         if(val == -1){
             return true;
         }
-        int n = vals.size();
-        for(int i=0; i<n; i++){
-            if(vals[i]==val){
-                return i<n-1;
-            }
-        }
-        return hasNextt;
+        return i<n;
     }
 };
 
