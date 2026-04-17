@@ -2,6 +2,7 @@ class Solution {
 public:
     int maxDistinct(string s) {
        int n = s.length();
+    //    int ans = 0;
        unordered_set<char>st;
        for(int i=0; i<n; i++){
         st.insert(s[i]);
