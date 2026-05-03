@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Mayurimane936/LeetCode-/tree/master/1256-rank-transform-of-an-array) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Mayurimane936/LeetCode-/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1319-unique-number-of-occurrences](https://github.com/Mayurimane936/LeetCode-/tree/master/1319-unique-number-of-occurrences) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mayurimane936/LeetCode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Mayurimane936/LeetCode-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Mayurimane936/LeetCode-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mayurimane936/LeetCode-/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/Mayurimane936/LeetCode-/tree/master/0942-di-string-match) |
 | [1205-defanging-an-ip-address](https://github.com/Mayurimane936/LeetCode-/tree/master/1205-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mayurimane936/LeetCode-/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mayurimane936/LeetCode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Mayurimane936/LeetCode-/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Mayurimane936/LeetCode-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1547-destination-city](https://github.com/Mayurimane936/LeetCode-/tree/master/1547-destination-city) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Mayurimane936/LeetCode-/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Mayurimane936/LeetCode-/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mayurimane936/LeetCode-/tree/master/1046-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mayurimane936/LeetCode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Mayurimane936/LeetCode-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Mayurimane936/LeetCode-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Mayurimane936/LeetCode-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
