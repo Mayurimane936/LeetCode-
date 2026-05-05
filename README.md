@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/Mayurimane936/LeetCode-/tree/master/3429-special-array-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mayurimane936/LeetCode-/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Mayurimane936/LeetCode-/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3531-count-covered-buildings](https://github.com/Mayurimane936/LeetCode-/tree/master/3531-count-covered-buildings) |
 | [3533-snake-in-matrix](https://github.com/Mayurimane936/LeetCode-/tree/master/3533-snake-in-matrix) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mayurimane936/LeetCode-/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/Mayurimane936/LeetCode-/tree/master/3668-restore-finishing-order) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Mayurimane936/LeetCode-/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Mayurimane936/LeetCode-/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/Mayurimane936/LeetCode-/tree/master/3227-find-missing-and-repeated-values) |
+| [3531-count-covered-buildings](https://github.com/Mayurimane936/LeetCode-/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mayurimane936/LeetCode-/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/Mayurimane936/LeetCode-/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/Mayurimane936/LeetCode-/tree/master/3731-find-missing-elements) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Mayurimane936/LeetCode-/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/Mayurimane936/LeetCode-/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/Mayurimane936/LeetCode-/tree/master/3321-type-of-triangle) |
+| [3531-count-covered-buildings](https://github.com/Mayurimane936/LeetCode-/tree/master/3531-count-covered-buildings) |
 | [3731-find-missing-elements](https://github.com/Mayurimane936/LeetCode-/tree/master/3731-find-missing-elements) |
 | [3778-transform-array-by-parity](https://github.com/Mayurimane936/LeetCode-/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
