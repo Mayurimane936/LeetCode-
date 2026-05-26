@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Mayurimane936/LeetCode-/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Mayurimane936/LeetCode-/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/Mayurimane936/LeetCode-/tree/master/3194-find-words-containing-character) |
+| [3227-vowels-game-in-a-string](https://github.com/Mayurimane936/LeetCode-/tree/master/3227-vowels-game-in-a-string) |
 | [3271-hash-divided-string](https://github.com/Mayurimane936/LeetCode-/tree/master/3271-hash-divided-string) |
 | [3379-score-of-a-string](https://github.com/Mayurimane936/LeetCode-/tree/master/3379-score-of-a-string) |
 | [3533-snake-in-matrix](https://github.com/Mayurimane936/LeetCode-/tree/master/3533-snake-in-matrix) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2752-sum-multiples](https://github.com/Mayurimane936/LeetCode-/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Mayurimane936/LeetCode-/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/Mayurimane936/LeetCode-/tree/master/3227-find-missing-and-repeated-values) |
+| [3227-vowels-game-in-a-string](https://github.com/Mayurimane936/LeetCode-/tree/master/3227-vowels-game-in-a-string) |
 | [3321-type-of-triangle](https://github.com/Mayurimane936/LeetCode-/tree/master/3321-type-of-triangle) |
 | [3371-harshad-number](https://github.com/Mayurimane936/LeetCode-/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mayurimane936/LeetCode-/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -746,8 +748,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Mayurimane936/LeetCode-/tree/master/0292-nim-game) |
+| [3227-vowels-game-in-a-string](https://github.com/Mayurimane936/LeetCode-/tree/master/3227-vowels-game-in-a-string) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Mayurimane936/LeetCode-/tree/master/0292-nim-game) |
+| [3227-vowels-game-in-a-string](https://github.com/Mayurimane936/LeetCode-/tree/master/3227-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
