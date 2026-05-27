@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/Mayurimane936/LeetCode-/tree/master/2128-reverse-prefix-of-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Mayurimane936/LeetCode-/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mayurimane936/LeetCode-/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2396-strictly-palindromic-number](https://github.com/Mayurimane936/LeetCode-/tree/master/2396-strictly-palindromic-number) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Mayurimane936/LeetCode-/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Mayurimane936/LeetCode-/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3794-reverse-string-prefix](https://github.com/Mayurimane936/LeetCode-/tree/master/3794-reverse-string-prefix) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/Mayurimane936/LeetCode-/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Mayurimane936/LeetCode-/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2383-add-two-integers](https://github.com/Mayurimane936/LeetCode-/tree/master/2383-add-two-integers) |
+| [2396-strictly-palindromic-number](https://github.com/Mayurimane936/LeetCode-/tree/master/2396-strictly-palindromic-number) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Mayurimane936/LeetCode-/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2491-smallest-even-multiple](https://github.com/Mayurimane936/LeetCode-/tree/master/2491-smallest-even-multiple) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mayurimane936/LeetCode-/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -748,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Mayurimane936/LeetCode-/tree/master/0292-nim-game) |
+| [2396-strictly-palindromic-number](https://github.com/Mayurimane936/LeetCode-/tree/master/2396-strictly-palindromic-number) |
 | [3227-vowels-game-in-a-string](https://github.com/Mayurimane936/LeetCode-/tree/master/3227-vowels-game-in-a-string) |
 ## Game Theory
 |  |
