@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Mayurimane936/LeetCode-/tree/master/1256-rank-transform-of-an-array) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Mayurimane936/LeetCode-/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1319-unique-number-of-occurrences](https://github.com/Mayurimane936/LeetCode-/tree/master/1319-unique-number-of-occurrences) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Mayurimane936/LeetCode-/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mayurimane936/LeetCode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Mayurimane936/LeetCode-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Mayurimane936/LeetCode-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/Mayurimane936/LeetCode-/tree/master/0942-di-string-match) |
 | [1205-defanging-an-ip-address](https://github.com/Mayurimane936/LeetCode-/tree/master/1205-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mayurimane936/LeetCode-/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Mayurimane936/LeetCode-/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mayurimane936/LeetCode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Mayurimane936/LeetCode-/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Mayurimane936/LeetCode-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -600,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/Mayurimane936/LeetCode-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Mayurimane936/LeetCode-/tree/master/1034-subarrays-with-k-different-integers) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mayurimane936/LeetCode-/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Mayurimane936/LeetCode-/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mayurimane936/LeetCode-/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Mayurimane936/LeetCode-/tree/master/1635-number-of-good-pairs) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Mayurimane936/LeetCode-/tree/master/1704-determine-if-string-halves-are-alike) |
