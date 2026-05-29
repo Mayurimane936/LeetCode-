@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-score-of-a-string](https://github.com/Mayurimane936/LeetCode-/tree/master/3379-score-of-a-string) |
 | [3533-snake-in-matrix](https://github.com/Mayurimane936/LeetCode-/tree/master/3533-snake-in-matrix) |
 | [3636-check-balanced-string](https://github.com/Mayurimane936/LeetCode-/tree/master/3636-check-balanced-string) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/Mayurimane936/LeetCode-/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Mayurimane936/LeetCode-/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/Mayurimane936/LeetCode-/tree/master/3794-reverse-string-prefix) |
 | [3811-reverse-degree-of-a-string](https://github.com/Mayurimane936/LeetCode-/tree/master/3811-reverse-degree-of-a-string) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Mayurimane936/LeetCode-/tree/master/0682-baseball-game) |
 | [2128-reverse-prefix-of-word](https://github.com/Mayurimane936/LeetCode-/tree/master/2128-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Mayurimane936/LeetCode-/tree/master/2390-removing-stars-from-a-string) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/Mayurimane936/LeetCode-/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Binary Search
 |  |
 | ------- |
@@ -609,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/Mayurimane936/LeetCode-/tree/master/1848-sum-of-unique-elements) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mayurimane936/LeetCode-/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Mayurimane936/LeetCode-/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/Mayurimane936/LeetCode-/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3778-transform-array-by-parity](https://github.com/Mayurimane936/LeetCode-/tree/master/3778-transform-array-by-parity) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Mayurimane936/LeetCode-/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Breadth-First Search
