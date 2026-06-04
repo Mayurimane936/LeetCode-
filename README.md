@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Mayurimane936/LeetCode-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Mayurimane936/LeetCode-/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Mayurimane936/LeetCode-/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Mayurimane936/LeetCode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/Mayurimane936/LeetCode-/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/Mayurimane936/LeetCode-/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/Mayurimane936/LeetCode-/tree/master/0792-binary-search) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Mayurimane936/LeetCode-/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Mayurimane936/LeetCode-/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Mayurimane936/LeetCode-/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Mayurimane936/LeetCode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Mayurimane936/LeetCode-/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mayurimane936/LeetCode-/tree/master/1046-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mayurimane936/LeetCode-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
