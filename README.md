@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Mayurimane936/LeetCode-/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Mayurimane936/LeetCode-/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Mayurimane936/LeetCode-/tree/master/1013-fibonacci-number) |
+| [1104-path-in-zigzag-labelled-binary-tree](https://github.com/Mayurimane936/LeetCode-/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mayurimane936/LeetCode-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Mayurimane936/LeetCode-/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Mayurimane936/LeetCode-/tree/master/1370-count-number-of-nice-subarrays) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mayurimane936/LeetCode-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Mayurimane936/LeetCode-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Mayurimane936/LeetCode-/tree/master/0975-range-sum-of-bst) |
+| [1104-path-in-zigzag-labelled-binary-tree](https://github.com/Mayurimane936/LeetCode-/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Mayurimane936/LeetCode-/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Mayurimane936/LeetCode-/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Mayurimane936/LeetCode-/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mayurimane936/LeetCode-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Mayurimane936/LeetCode-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Mayurimane936/LeetCode-/tree/master/0975-range-sum-of-bst) |
+| [1104-path-in-zigzag-labelled-binary-tree](https://github.com/Mayurimane936/LeetCode-/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Mayurimane936/LeetCode-/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Mayurimane936/LeetCode-/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Mayurimane936/LeetCode-/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
