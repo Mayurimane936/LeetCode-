@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/Mayurimane936/LeetCode-/tree/master/1034-subarrays-with-k-different-integers) |
 | [1217-relative-sort-array](https://github.com/Mayurimane936/LeetCode-/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Mayurimane936/LeetCode-/tree/master/1256-rank-transform-of-an-array) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Mayurimane936/LeetCode-/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Mayurimane936/LeetCode-/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1319-unique-number-of-occurrences](https://github.com/Mayurimane936/LeetCode-/tree/master/1319-unique-number-of-occurrences) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Mayurimane936/LeetCode-/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Mayurimane936/LeetCode-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Mayurimane936/LeetCode-/tree/master/0975-range-sum-of-bst) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/Mayurimane936/LeetCode-/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Mayurimane936/LeetCode-/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Mayurimane936/LeetCode-/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Mayurimane936/LeetCode-/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Mayurimane936/LeetCode-/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Mayurimane936/LeetCode-/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Mayurimane936/LeetCode-/tree/master/0841-keys-and-rooms) |
 | [0975-range-sum-of-bst](https://github.com/Mayurimane936/LeetCode-/tree/master/0975-range-sum-of-bst) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Mayurimane936/LeetCode-/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Mayurimane936/LeetCode-/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Mayurimane936/LeetCode-/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Mayurimane936/LeetCode-/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -537,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Mayurimane936/LeetCode-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Mayurimane936/LeetCode-/tree/master/0975-range-sum-of-bst) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/Mayurimane936/LeetCode-/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Mayurimane936/LeetCode-/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Mayurimane936/LeetCode-/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Mayurimane936/LeetCode-/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Mayurimane936/LeetCode-/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -645,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Mayurimane936/LeetCode-/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Mayurimane936/LeetCode-/tree/master/0841-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/Mayurimane936/LeetCode-/tree/master/1036-rotting-oranges) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Mayurimane936/LeetCode-/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Mayurimane936/LeetCode-/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Mayurimane936/LeetCode-/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Union Find
@@ -766,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Mayurimane936/LeetCode-/tree/master/0173-binary-search-tree-iterator) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Mayurimane936/LeetCode-/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1476-subrectangle-queries](https://github.com/Mayurimane936/LeetCode-/tree/master/1476-subrectangle-queries) |
 ## Iterator
 |  |
