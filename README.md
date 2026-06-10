@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/Mayurimane936/LeetCode-/tree/master/1861-rotating-the-box) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Mayurimane936/LeetCode-/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1944-truncate-sentence](https://github.com/Mayurimane936/LeetCode-/tree/master/1944-truncate-sentence) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Mayurimane936/LeetCode-/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2058-concatenation-of-array](https://github.com/Mayurimane936/LeetCode-/tree/master/2058-concatenation-of-array) |
 | [2079-watering-plants](https://github.com/Mayurimane936/LeetCode-/tree/master/2079-watering-plants) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Mayurimane936/LeetCode-/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Mayurimane936/LeetCode-/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Mayurimane936/LeetCode-/tree/master/1848-sum-of-unique-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Mayurimane936/LeetCode-/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Mayurimane936/LeetCode-/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2103-rings-and-rods](https://github.com/Mayurimane936/LeetCode-/tree/master/2103-rings-and-rods) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mayurimane936/LeetCode-/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mayurimane936/LeetCode-/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/Mayurimane936/LeetCode-/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Mayurimane936/LeetCode-/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/Mayurimane936/LeetCode-/tree/master/1970-sorting-the-sentence) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Mayurimane936/LeetCode-/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2103-rings-and-rods](https://github.com/Mayurimane936/LeetCode-/tree/master/2103-rings-and-rods) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Mayurimane936/LeetCode-/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Mayurimane936/LeetCode-/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -630,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Mayurimane936/LeetCode-/tree/master/1635-number-of-good-pairs) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Mayurimane936/LeetCode-/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1848-sum-of-unique-elements](https://github.com/Mayurimane936/LeetCode-/tree/master/1848-sum-of-unique-elements) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Mayurimane936/LeetCode-/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mayurimane936/LeetCode-/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Mayurimane936/LeetCode-/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Mayurimane936/LeetCode-/tree/master/3746-minimum-string-length-after-balanced-removals) |
