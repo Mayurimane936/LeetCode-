@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Mayurimane936/LeetCode-/tree/master/0832-flipping-an-image) |
 | [0861-flipping-an-image](https://github.com/Mayurimane936/LeetCode-/tree/master/0861-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Mayurimane936/LeetCode-/tree/master/0867-transpose-matrix) |
+| [0877-stone-game](https://github.com/Mayurimane936/LeetCode-/tree/master/0877-stone-game) |
 | [0890-find-and-replace-pattern](https://github.com/Mayurimane936/LeetCode-/tree/master/0890-find-and-replace-pattern) |
 | [0905-sort-array-by-parity](https://github.com/Mayurimane936/LeetCode-/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Mayurimane936/LeetCode-/tree/master/0922-sort-array-by-parity-ii) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Mayurimane936/LeetCode-/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Mayurimane936/LeetCode-/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Mayurimane936/LeetCode-/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Mayurimane936/LeetCode-/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/Mayurimane936/LeetCode-/tree/master/1013-fibonacci-number) |
 ## Sliding Window
 |  |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Mayurimane936/LeetCode-/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Mayurimane936/LeetCode-/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Mayurimane936/LeetCode-/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Mayurimane936/LeetCode-/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/Mayurimane936/LeetCode-/tree/master/1013-fibonacci-number) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/Mayurimane936/LeetCode-/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mayurimane936/LeetCode-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -811,5 +814,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Mayurimane936/LeetCode-/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/Mayurimane936/LeetCode-/tree/master/0877-stone-game) |
 | [3227-vowels-game-in-a-string](https://github.com/Mayurimane936/LeetCode-/tree/master/3227-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
