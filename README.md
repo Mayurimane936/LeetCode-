@@ -514,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Mayurimane936/LeetCode-/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Mayurimane936/LeetCode-/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Mayurimane936/LeetCode-/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1609-even-odd-tree](https://github.com/Mayurimane936/LeetCode-/tree/master/1609-even-odd-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Mayurimane936/LeetCode-/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Mayurimane936/LeetCode-/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Mayurimane936/LeetCode-/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Mayurimane936/LeetCode-/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1609-even-odd-tree](https://github.com/Mayurimane936/LeetCode-/tree/master/1609-even-odd-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Mayurimane936/LeetCode-/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Search Tree
 |  |
@@ -682,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-deepest-leaves-sum](https://github.com/Mayurimane936/LeetCode-/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Mayurimane936/LeetCode-/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Mayurimane936/LeetCode-/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1609-even-odd-tree](https://github.com/Mayurimane936/LeetCode-/tree/master/1609-even-odd-tree) |
 ## Union Find
 |  |
 | ------- |
