@@ -40,7 +40,6 @@ class Solution {
                 return;
             }
         }
-
         ans = (temp == nodes);
     }
 public:
