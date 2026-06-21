@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/Mayurimane936/LeetCode-/tree/master/0942-di-string-match) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mayurimane936/LeetCode-/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Mayurimane936/LeetCode-/tree/master/0966-binary-subarrays-with-sum) |
+| [1023-camelcase-matching](https://github.com/Mayurimane936/LeetCode-/tree/master/1023-camelcase-matching) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Mayurimane936/LeetCode-/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/Mayurimane936/LeetCode-/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mayurimane936/LeetCode-/tree/master/1046-max-consecutive-ones-iii) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Mayurimane936/LeetCode-/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Mayurimane936/LeetCode-/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/Mayurimane936/LeetCode-/tree/master/0942-di-string-match) |
+| [1023-camelcase-matching](https://github.com/Mayurimane936/LeetCode-/tree/master/1023-camelcase-matching) |
 | [1768-merge-strings-alternately](https://github.com/Mayurimane936/LeetCode-/tree/master/1768-merge-strings-alternately) |
 | [1861-rotating-the-box](https://github.com/Mayurimane936/LeetCode-/tree/master/1861-rotating-the-box) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Mayurimane936/LeetCode-/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/Mayurimane936/LeetCode-/tree/master/0890-find-and-replace-pattern) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Mayurimane936/LeetCode-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0942-di-string-match](https://github.com/Mayurimane936/LeetCode-/tree/master/0942-di-string-match) |
+| [1023-camelcase-matching](https://github.com/Mayurimane936/LeetCode-/tree/master/1023-camelcase-matching) |
 | [1205-defanging-an-ip-address](https://github.com/Mayurimane936/LeetCode-/tree/master/1205-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mayurimane936/LeetCode-/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Mayurimane936/LeetCode-/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -745,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mayurimane936/LeetCode-/tree/master/0014-longest-common-prefix) |
+| [1023-camelcase-matching](https://github.com/Mayurimane936/LeetCode-/tree/master/1023-camelcase-matching) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -791,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [1023-camelcase-matching](https://github.com/Mayurimane936/LeetCode-/tree/master/1023-camelcase-matching) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Mayurimane936/LeetCode-/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Combinatorics
 |  |
