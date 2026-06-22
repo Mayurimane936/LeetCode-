@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Mayurimane936/LeetCode-/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Mayurimane936/LeetCode-/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1319-unique-number-of-occurrences](https://github.com/Mayurimane936/LeetCode-/tree/master/1319-unique-number-of-occurrences) |
+| [1324-print-words-vertically](https://github.com/Mayurimane936/LeetCode-/tree/master/1324-print-words-vertically) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mayurimane936/LeetCode-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Mayurimane936/LeetCode-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mayurimane936/LeetCode-/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-camelcase-matching](https://github.com/Mayurimane936/LeetCode-/tree/master/1023-camelcase-matching) |
 | [1205-defanging-an-ip-address](https://github.com/Mayurimane936/LeetCode-/tree/master/1205-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mayurimane936/LeetCode-/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1324-print-words-vertically](https://github.com/Mayurimane936/LeetCode-/tree/master/1324-print-words-vertically) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Mayurimane936/LeetCode-/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mayurimane936/LeetCode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Mayurimane936/LeetCode-/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
@@ -593,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Mayurimane936/LeetCode-/tree/master/0832-flipping-an-image) |
 | [0861-flipping-an-image](https://github.com/Mayurimane936/LeetCode-/tree/master/0861-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Mayurimane936/LeetCode-/tree/master/0867-transpose-matrix) |
+| [1324-print-words-vertically](https://github.com/Mayurimane936/LeetCode-/tree/master/1324-print-words-vertically) |
 | [1806-count-of-matches-in-tournament](https://github.com/Mayurimane936/LeetCode-/tree/master/1806-count-of-matches-in-tournament) |
 | [2058-concatenation-of-array](https://github.com/Mayurimane936/LeetCode-/tree/master/2058-concatenation-of-array) |
 | [2079-watering-plants](https://github.com/Mayurimane936/LeetCode-/tree/master/2079-watering-plants) |
