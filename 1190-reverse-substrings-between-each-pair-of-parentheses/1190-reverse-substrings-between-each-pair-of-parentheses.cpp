@@ -16,14 +16,10 @@ class Solution {
     }
 public:
     string reverseParentheses(string s) {
-        string ans = "";
-        stack<string>st;
-        string word = "";
         string temp = s;
         int n = temp.length();
         for (int i = 0; i < n; i++) {
             if (s[i] == '(' || s[i] == ')') {
-                cout<<"temp "<<temp<<endl;
                reverseSubstring(temp);
             }
         }
