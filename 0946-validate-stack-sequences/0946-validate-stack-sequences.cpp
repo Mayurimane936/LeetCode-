@@ -15,12 +15,6 @@ public:
                 j++;
             }
         }
-
-       while (!st.empty() && j < m && st.top() == popped[j]) {
-            cout << "Poppingggg " << st.top() << endl;
-            st.pop();
-            j++;
-        }
        return st.size() == 0;
     }
 };
