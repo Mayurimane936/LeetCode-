@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Mayurimane936/LeetCode-/tree/master/0922-sort-array-by-parity-ii) |
 | [0940-fruit-into-baskets](https://github.com/Mayurimane936/LeetCode-/tree/master/0940-fruit-into-baskets) |
 | [0942-di-string-match](https://github.com/Mayurimane936/LeetCode-/tree/master/0942-di-string-match) |
+| [0946-validate-stack-sequences](https://github.com/Mayurimane936/LeetCode-/tree/master/0946-validate-stack-sequences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mayurimane936/LeetCode-/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Mayurimane936/LeetCode-/tree/master/0966-binary-subarrays-with-sum) |
 | [1023-camelcase-matching](https://github.com/Mayurimane936/LeetCode-/tree/master/1023-camelcase-matching) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Mayurimane936/LeetCode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Mayurimane936/LeetCode-/tree/master/0173-binary-search-tree-iterator) |
 | [0682-baseball-game](https://github.com/Mayurimane936/LeetCode-/tree/master/0682-baseball-game) |
+| [0946-validate-stack-sequences](https://github.com/Mayurimane936/LeetCode-/tree/master/0946-validate-stack-sequences) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mayurimane936/LeetCode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/Mayurimane936/LeetCode-/tree/master/2128-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Mayurimane936/LeetCode-/tree/master/2390-removing-stars-from-a-string) |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Mayurimane936/LeetCode-/tree/master/0832-flipping-an-image) |
 | [0861-flipping-an-image](https://github.com/Mayurimane936/LeetCode-/tree/master/0861-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Mayurimane936/LeetCode-/tree/master/0867-transpose-matrix) |
+| [0946-validate-stack-sequences](https://github.com/Mayurimane936/LeetCode-/tree/master/0946-validate-stack-sequences) |
 | [1324-print-words-vertically](https://github.com/Mayurimane936/LeetCode-/tree/master/1324-print-words-vertically) |
 | [1806-count-of-matches-in-tournament](https://github.com/Mayurimane936/LeetCode-/tree/master/1806-count-of-matches-in-tournament) |
 | [2058-concatenation-of-array](https://github.com/Mayurimane936/LeetCode-/tree/master/2058-concatenation-of-array) |
