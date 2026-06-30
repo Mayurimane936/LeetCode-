@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Mayurimane936/LeetCode-/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/Mayurimane936/LeetCode-/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/Mayurimane936/LeetCode-/tree/master/1656-count-good-triplets) |
+| [1701-average-waiting-time](https://github.com/Mayurimane936/LeetCode-/tree/master/1701-average-waiting-time) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mayurimane936/LeetCode-/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1773-count-items-matching-a-rule](https://github.com/Mayurimane936/LeetCode-/tree/master/1773-count-items-matching-a-rule) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Mayurimane936/LeetCode-/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -605,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Mayurimane936/LeetCode-/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/Mayurimane936/LeetCode-/tree/master/0946-validate-stack-sequences) |
 | [1324-print-words-vertically](https://github.com/Mayurimane936/LeetCode-/tree/master/1324-print-words-vertically) |
+| [1701-average-waiting-time](https://github.com/Mayurimane936/LeetCode-/tree/master/1701-average-waiting-time) |
 | [1806-count-of-matches-in-tournament](https://github.com/Mayurimane936/LeetCode-/tree/master/1806-count-of-matches-in-tournament) |
 | [2058-concatenation-of-array](https://github.com/Mayurimane936/LeetCode-/tree/master/2058-concatenation-of-array) |
 | [2079-watering-plants](https://github.com/Mayurimane936/LeetCode-/tree/master/2079-watering-plants) |
