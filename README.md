@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Mayurimane936/LeetCode-/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1848-sum-of-unique-elements](https://github.com/Mayurimane936/LeetCode-/tree/master/1848-sum-of-unique-elements) |
 | [1861-rotating-the-box](https://github.com/Mayurimane936/LeetCode-/tree/master/1861-rotating-the-box) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Mayurimane936/LeetCode-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Mayurimane936/LeetCode-/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1944-truncate-sentence](https://github.com/Mayurimane936/LeetCode-/tree/master/1944-truncate-sentence) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Mayurimane936/LeetCode-/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mayurimane936/LeetCode-/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Mayurimane936/LeetCode-/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1630-arithmetic-subarrays](https://github.com/Mayurimane936/LeetCode-/tree/master/1630-arithmetic-subarrays) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Mayurimane936/LeetCode-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Mayurimane936/LeetCode-/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1970-sorting-the-sentence](https://github.com/Mayurimane936/LeetCode-/tree/master/1970-sorting-the-sentence) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Mayurimane936/LeetCode-/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-camelcase-matching](https://github.com/Mayurimane936/LeetCode-/tree/master/1023-camelcase-matching) |
 | [1768-merge-strings-alternately](https://github.com/Mayurimane936/LeetCode-/tree/master/1768-merge-strings-alternately) |
 | [1861-rotating-the-box](https://github.com/Mayurimane936/LeetCode-/tree/master/1861-rotating-the-box) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Mayurimane936/LeetCode-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Mayurimane936/LeetCode-/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Mayurimane936/LeetCode-/tree/master/2109-adding-spaces-to-a-string) |
 | [2128-reverse-prefix-of-word](https://github.com/Mayurimane936/LeetCode-/tree/master/2128-reverse-prefix-of-word) |
@@ -737,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Mayurimane936/LeetCode-/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mayurimane936/LeetCode-/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Mayurimane936/LeetCode-/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Mayurimane936/LeetCode-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Mayurimane936/LeetCode-/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2756-buy-two-chocolates](https://github.com/Mayurimane936/LeetCode-/tree/master/2756-buy-two-chocolates) |
 ## Database
