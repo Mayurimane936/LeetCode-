@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Mayurimane936/LeetCode-/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Mayurimane936/LeetCode-/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Mayurimane936/LeetCode-/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/Mayurimane936/LeetCode-/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Mayurimane936/LeetCode-/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Mayurimane936/LeetCode-/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Mayurimane936/LeetCode-/tree/master/0078-subsets) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Mayurimane936/LeetCode-/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Mayurimane936/LeetCode-/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/Mayurimane936/LeetCode-/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Mayurimane936/LeetCode-/tree/master/0392-is-subsequence) |
@@ -735,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mayurimane936/LeetCode-/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Mayurimane936/LeetCode-/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/Mayurimane936/LeetCode-/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Mayurimane936/LeetCode-/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Mayurimane936/LeetCode-/tree/master/0680-valid-palindrome-ii) |
